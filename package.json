@@ -54,7 +54,10 @@
     }
   },
   "dependencies": {
+    "@pixi/math": "^7.2.4",
+    "@pixi/math-extras": "^7.2.4",
     "chart.js": "^4.3.0",
-    "math.js": "^1.1.46"
+    "math.js": "^1.1.46",
+    "pixi.js": "^7.2.4"
   }
 }
